@@ -34,6 +34,29 @@ The encoded ontology in the Web Ontology Language (OWL) can be found [here](http
 Contributions to improve the ontology or address any issues are welcome.
 The management of issues and improvements suggested for this ontology is done by addressing [issues](https://github.com/basf/EPPOontology/issues) in the repository. In order to push your contribution, just push your pull request to the develop branch. The master branch has only the code associated to the latest release.
 
+## Citing
+
+If you used the EPPO ontology in your work, please cite the [Frontiers in Artificial Intelligence](https://www.frontiersin.org/articles/10.3389/frai.2023.1131667) paper:
+```bib
+@ARTICLE{10.3389/frai.2023.1131667,
+
+AUTHOR={Ayllón-Benitez, Aarón and Bernabé-Diaz, José Antonio and Espinoza-Arias, Paola and Esnaola-Gonzalez, Iker and Beeckman, Delphine S. A. and McCaig, Bonnie and Hanzlik, Kristin and Cools, Toon and Castro Iragorri, Carlos and Palacios, Nicolás},   
+
+TITLE={EPPO ontology: a semantic-driven approach for plant and pest codes representation},      
+
+JOURNAL={Frontiers in Artificial Intelligence},      
+
+VOLUME={6},           
+
+YEAR={2023},      
+
+URL={https://www.frontiersin.org/articles/10.3389/frai.2023.1131667},       
+
+DOI={10.3389/frai.2023.1131667}
+}
+```
+
+
 ## Authors
 * Aarón Ayllón-Benitez - [aaron.ayllon@basf.com](mailto:aaron.ayllon@basf.com)
 * José Antonio Bernabé-Diaz - [jose-antonio.bernabe-diaz@basf.com](mailto:jose-antonio.bernabe-diaz@basf.com)
